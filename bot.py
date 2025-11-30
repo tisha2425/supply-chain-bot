@@ -153,7 +153,7 @@ if "chat_history" not in st.session_state:
 
 
 st.markdown('<div class="hero-title">Supply Chain Risk Bot</div>', unsafe_allow_html=True)
-st.markdown('<div class="hero-subtitle">Minimal · Aesthetic · Powered by Gemini</div>', unsafe_allow_html=True)
+st.markdown('<div class="hero-subtitle">Minimal · Aesthetic </div>', unsafe_allow_html=True)
 st.markdown('</div>', unsafe_allow_html=True)
 
 
@@ -237,3 +237,4 @@ st.markdown(
 """,
     unsafe_allow_html=True,
 )
+
