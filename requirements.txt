@@ -4,5 +4,7 @@ langchain
 langchain-core
 langchain-google-genai
 google-generativeai
-python-dotenv
-pydantic==1.10.12
+langchain-openai==0.3.12
+langchain==0.3.23
+streamlit==1.44.1
+python-dotenv==1.1.0
